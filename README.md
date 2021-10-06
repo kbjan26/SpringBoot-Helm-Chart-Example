@@ -9,4 +9,4 @@ helm init --override spec.selector.matchLabels.'name'='tiller',spec.selector.mat
 
 https://www.katacoda.com/vikas-poddar-slalom/scenarios/session-03-lab1-helm-intro
 
-helm install --name spring-boot-chart ./springSpringBoot-Helm-Chart-Example
+helm install --name spring-boot-chart ./SpringBoot-Helm-Chart-Example
